@@ -1,0 +1,2 @@
+# ScriptCalc
+Calculadora JavaScript
